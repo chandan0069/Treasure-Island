@@ -12,4 +12,5 @@ The game begins with a welcome message and your mission to find the treasure. Yo
 Possible Outcomes:
 
 Winning: If you make the right choices (wait for the boat, choose the yellow door), you'll find the treasure and win the game!
+
 Losing: Making wrong choices (falling into a hole, being attacked by a trout, entering the red or blue door) will result in a game over scenario
